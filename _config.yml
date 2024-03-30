@@ -21,10 +21,10 @@ repository               : "likeajumprope/likeajumprope.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "interested in Neuroscience, Neuroimaging, Computer Science, Machine Learning Open Science and Open Surce"
+  bio              : "Interested in Neuroscience, Neuroimaging, Computer Science, Machine Learning Open Science and Open Source"
   location         : "Netherlands"
   employer         : "Donders Institute"
   uri              : # URL
